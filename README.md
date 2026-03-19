@@ -3,7 +3,24 @@
 Welcome to the "Data Warehouse and Analytics Project" repository!🔔
 This project demonstrates a comprehensive data warehousing and analytics solution,from building a data warehouse to generating actionable insights.Designed as a portfolio project highlights industry best practices in data engineering and analytics.
 
--------
+----------------------------------------------------------------------------
+# 🔔 Project Overview
+
+This project involves:
+  1.Data Architecture:Designing a Modern Data Warehouse using Medallion Architecture Bronze,Silver and Gold layers.
+  2.ETL Pipelines:Extracting,transforming,and loading data from source systems into the warehouse.
+  3.Data Modeling:Developing fact and dimension tables optimized for analytical queries.
+  4.Analytics & Reporting:Creating SQL-based reports and dashboards for actionalble insights.
+
+  🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in :
+    • SQL Development
+    •  Data Architect
+    • Data Engineering
+    • ETL Pipeline Developer
+    • Data Modeling
+    • Data Analytics
+
+______________________________________________________________________________________________   
 
 ## 🔔 Project Requirements
 
@@ -20,7 +37,7 @@ Develop a modern data warehousebusing SQL Server to consolidate sales data,enabl
 --**Documentation**:Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
-
+____________________________________________________________________________________________________________
 ### BI:Analytics & Reporting (Data Analytics)
 
 #### Objective
@@ -30,8 +47,19 @@ Develop SQL-based analytics to deliver detailed insights into:
 --**Sales Trends**
 
 These insights empower stakeholders with key business metrics,enabling strategic decision-making.
+___________________________________________________________________________________________________________
 
----
+ Data Architecture
+    The data architecture for this project follows Medallion Architecture Bronze,Silver and Gold Layers.
+
+
+
+    <img width="1544" height="805" alt="data_architecture" src="https://github.com/user-attachments/assets/161910a6-67cb-4a4f-b95f-359af4e28ebd" />
+
+
+
+
+---_____________________________________________________________________________________________________________________________
 
 ## ©  License
 
