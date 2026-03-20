@@ -19,8 +19,16 @@ This project involves:
     • ETL Pipeline Developer
     • Data Modeling
     • Data Analytics
+______________________________________________________________________________________________
+# Important Links:
+SQL Server Express: Lightweight server for hosting your SQL database.
+SQL Server Management Studio(SSMS): GUI for managing & interacting with databases.
+Git Repositary: Set up a GitHub account and repository to manage,version,and collaborate on code efficiently.
+DrawIO: Design data architecture,models,flows,and diagrams.
+Notion: All-in-one tool for project management and organization.
+Notion Project Step:Access to All Project Phases and Tasks.
+_______________________________________________________________________________________________
 
-______________________________________________________________________________________________   
 
 ## 🔔 Project Requirements
 
