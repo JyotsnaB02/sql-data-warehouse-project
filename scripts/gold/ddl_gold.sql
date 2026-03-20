@@ -55,7 +55,7 @@ SELECT
 	pn.prd_key AS product_number,
 	pn.prd_nm AS product_name,
 	pn.cat_id AS category_id,
-	pc.cat AS categoty,                                                                                                             
+	pc.cat AS category,                                                                                                             
 	pc.subcat AS subcategory,
 	pc.maintenance,
 	pn.prd_cost AS cost,
